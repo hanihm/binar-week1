@@ -1,0 +1,17 @@
+.vertikal_center{
+    /*mengatur border bagian kiri tag div */
+    border-left: 1px solid black;
+    /* mengatur tinggi tag div*/
+    height: 40px;
+    /*mengatur lebar tag div*/
+    width : 1px;
+}
+.bg-purple{
+    background-color: #6A45DB;
+}
+.btn-cream{
+    background-color: #F2EA6F;
+}
+.purple{
+    color: #6A45DB;
+}
